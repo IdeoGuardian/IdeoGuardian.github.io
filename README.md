@@ -1,4 +1,4 @@
-# Identity Guardian: A Journey Beyond Technology
+# IdeoGuardian: A Journey Beyond Technology
 
 ## 🌐 Prologue
 
@@ -51,7 +51,7 @@ A collective imagination.**
 
 This work is protected under dual licensing:
 
-1. **Copyright (c) 2025 Identity Guardian Project**  
+1. **Copyright (c) 2025 IdeoGuardian Project**  
    All rights reserved. See full copyright notice for details.
 
 2. **Creative Commons License**  
