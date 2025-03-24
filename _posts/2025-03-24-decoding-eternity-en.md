@@ -11,8 +11,6 @@ permalink: /decoding-eternity-en/
 
 # Decoding Eternity
 
-[Back to Home]({{ site.baseurl }}/)
-
 ## Prologue: The Boundary of Light
 
 The boundary between light and darkness is never clearly defined, like that indescribable moment when dawn and dusk intertwine. Echo Rivers stood at the city's highest point, gazing down at the digital information flows streaming like a galaxy of stars across Neo Taipei's night sky. Her thoughts, however, drifted to an ancient verse: "Moonlight shines through the pines, clear springs flow over stones." Two vastly different worlds, yet reflecting the same human heart.
@@ -1103,6 +1101,8 @@ Night fell, the city's myriad lights twinkling like stars, each light a unique s
 On the first page of this new era, everything both ends and begins, as the poet said: "Moonlight shines through the pines, clear springs flow over stones." No matter how technology changes, humanity's deepest longings remain constant—to understand this world, to connect with each other, to create meaning, and to find that steadfast peace deep within.
 
 And this, perhaps, is the ultimate Guardian Protocol—that eternally renegotiated balance between human and self, human and others, human and world. As that profound realization states: "Each moment is a new beginning," and in these countless beginnings, we continuously rediscover ourselves, and rediscover the world.
+
+[Back to Home]({{ site.baseurl }}/)
 
 
 
