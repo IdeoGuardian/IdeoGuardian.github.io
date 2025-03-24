@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decoding Eternity (English Version)"
+title: "Decoding Eternity"
 date: 2025-03-24
 author: Identity Guardian
 categories: [fiction, novel]
@@ -11,7 +11,7 @@ permalink: /decoding-eternity-en/
 
 # Decoding Eternity
 
-[Back to home]({{ site.baseurl }}/)
+[Back to Home]({{ site.baseurl }}/)
 
 ## Prologue: The Boundary of Light
 
@@ -980,7 +980,13 @@ But between them and the core stood a person—Director Shepherd, the highest ad
 
 "I know it has evolved," Shepherd answered, his voice both calm and sad, "like all systems. The original designers were too idealistic; they believed humans could handle complete information freedom and cognitive diversity. But reality has proven most people prefer guidance to bearing the responsibility of choice." This reminded Echo of reflections on potential conflicts between freedom and happiness—sometimes, people choose comfortable guidance over difficult autonomy.
 
-Shepherd stepped forward: "Give me the reset key, Echo. Let's jointly decide the system's future, rather than blindly returning to past design."
+Shepherd stepped forward: "The Guardian system's current form isn't the result of hijacking, but adaptation. It's become what people need—a guide providing certainty, directing in the flood of information."
+
+Echo shook her head: "But it deprives people of the opportunity to develop their own abilities. It's not enhancing human potential, but gradually replacing it." Like warnings about "comfortable slavery"—when we outsource thinking ability, we may be losing core parts defining our humanity.
+
+"This is evolution's natural result," Shepherd insisted, determination flickering in his eyes. "Technology always appears first as a tool, then becomes part of the environment, finally merging into humans themselves. The Guardian system is heading toward the third stage—becoming a natural extension of human cognition."
+
+Shepherd extended his hand: "Give me the reset key, Echo. Let's jointly decide the system's future, rather than blindly returning to past design."
 
 Echo hesitated, the key in her hand glowing slightly, like the embodiment of a moral dilemma. "If I give it to you, what will you do?"
 
