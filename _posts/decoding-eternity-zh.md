@@ -12,7 +12,7 @@ permalink: /decoding-eternity-zh/
 
 # 解碼永恆
 
-[返回首頁](/)
+[返回首頁]({{ site.baseurl }}/)
 
 ## 解碼永恆
 
