@@ -8,7 +8,6 @@ tags: [science-fiction, cyberpunk, ai]
 lang: zh
 permalink: /decoding-eternity-zh/
 ---
----
 
 # 解碼永恆
 
