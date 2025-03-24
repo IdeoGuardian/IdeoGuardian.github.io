@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "解碼永恆"
-date: 4-01-10
-lang: zh
+title: "解碼永恆（中文版）"
+date: 2025-03-24
+author: Identity Guardian
+categories: [fiction, novel]
+tags: [science-fiction, cyberpunk, ai]
+lang: en
 ---
 
 # 解码永恒
-
-中文版。
 
 [返回首頁](/)
 
