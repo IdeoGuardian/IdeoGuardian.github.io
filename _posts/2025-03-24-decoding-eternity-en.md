@@ -1109,5 +1109,3 @@ And this, perhaps, is the ultimate Guardian Protocol—that eternally renegotiat
 © 2025 Identity Guardian Project. All rights reserved.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-For permissions and inquiries, please contact: [Ideo_Guardian@proton.me]

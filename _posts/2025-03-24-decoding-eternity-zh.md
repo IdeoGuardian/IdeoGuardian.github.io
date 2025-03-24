@@ -1093,5 +1093,3 @@ permalink: /decoding-eternity-zh/
 © 2025 Identity Guardian Project. 版權所有。
 
 本作品採用[創用 CC 姓名標示-非商業性-禁止改作 4.0 國際授權條款](http://creativecommons.org/licenses/by-nc-nd/4.0/)授權。
-
-如需授權和查詢，請聯繫：[Ideo_Guardian@proton.me]
