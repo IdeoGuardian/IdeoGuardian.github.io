@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Identity Guardian
+title: Identity Guardian: A Journey Beyond Technology
 ---
 
 Identity Guardian: A Journey Beyond Technology
