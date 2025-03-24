@@ -7,8 +7,8 @@ This is not just a project - this is a living exploration of human potential in 
 
 ## Read the Novel | 閱讀小說
 
-- [English Version](/posts/2024-01-20-decoding-eternity)
-- [中文版本](/posts/2024-01-20-解碼永恆)
+- [English Version](/_posts/2024-01-20-decoding-eternity.md)
+- [中文版本](/_posts/2024-01-20-解碼永恆.md)
 
 ## 🔮 Core Concepts | 核心理念
 
