@@ -5,10 +5,12 @@ date: 2025-03-24
 author: Identity Guardian
 categories: [fiction, novel]
 tags: [science-fiction, cyberpunk, ai]
-lang: en
+lang: zh
+permalink: /decoding-eternity-zh/
+---
 ---
 
-# 解码永恒
+# 解碼永恆
 
 [返回首頁](/)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decoding Eternity (English Version)"
-date: 2024-01-10
+date: 2025-03-24
 author: Identity Guardian
 categories: [fiction, novel]
 tags: [science-fiction, cyberpunk, ai]
