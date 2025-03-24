@@ -1,8 +1,9 @@
-title: My Blog
-author: Your Name
-email: your-email@example.com
+title: Ideo_Guardian
+author: Ideo_Guardian
+email: Ideo_Guardian@proton.me
 description: >- 
-  Write a description about your blog here.
+  This is not just a project - this is a living exploration of human potential in the digital age.
+這不僅是一個項目 - 這是探索數字時代人類潛能的旅程。
 
 baseurl: "" # Leave empty if this is your main site
 url: "https://ideoguardian.github.io"
