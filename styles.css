@@ -1,0 +1,22 @@
+.language-selector {
+    text-align: right;
+    padding: 1rem;
+}
+
+.lang-btn {
+    padding: 0.5rem 1rem;
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+
+.content-en, .content-zh {
+    display: none;
+}
+
+.show-en .content-en {
+    display: block;
+}
+
+.show-zh .content-zh {
+    display: block;
+}
