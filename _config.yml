@@ -1,15 +1,15 @@
-title: Ideo_Guardian
+title: IdeoGuardian's Portfolio
 author: Ideo_Guardian
-email: Ideo_Guardian@proton.me
-description: >- 
-  This is not just a project - this is a living exploration of human potential in the digital age.
-這不僅是一個項目 - 這是探索數字時代人類潛能的旅程。
+email: your-email@domain.com
+description: Full Stack Web Developer & Software Engineer
 
 baseurl: "" # Leave empty if this is your main site
 url: "https://ideoguardian.github.io"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
+show_downloads: false
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
