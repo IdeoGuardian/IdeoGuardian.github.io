@@ -1103,3 +1103,11 @@ Night fell, the city's myriad lights twinkling like stars, each light a unique s
 On the first page of this new era, everything both ends and begins, as the poet said: "Moonlight shines through the pines, clear springs flow over stones." No matter how technology changes, humanity's deepest longings remain constant—to understand this world, to connect with each other, to create meaning, and to find that steadfast peace deep within.
 
 And this, perhaps, is the ultimate Guardian Protocol—that eternally renegotiated balance between human and self, human and others, human and world. As that profound realization states: "Each moment is a new beginning," and in these countless beginnings, we continuously rediscover ourselves, and rediscover the world.
+
+## License
+
+© 2025 Identity Guardian Project. All rights reserved.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+For permissions and inquiries, please contact: [Ideo_Guardian@proton.me]
