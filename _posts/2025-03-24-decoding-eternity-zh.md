@@ -6,7 +6,7 @@ author: Identity Guardian
 categories: [fiction, novel]
 tags: [science-fiction, cyberpunk, ai]
 lang: zh
-permalink: {{ site.baseurl }}/decoding-eternity-zh/
+permalink: /decoding-eternity-zh/
 ---
 
 # 解碼永恆
