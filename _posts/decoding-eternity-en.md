@@ -6,7 +6,7 @@ author: Identity Guardian
 categories: [fiction, novel]
 tags: [science-fiction, cyberpunk, ai]
 lang: en
-permalink: /decoding-eternity-en/
+permalink: {{ site.baseurl }}/decoding-eternity-en/
 ---
 
 # Decoding Eternity
