@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Identity Guardian: A Journey Beyond Technology
+title: IdeoGuardian: A Journey Beyond Technology
 ---
 
-Identity Guardian: A Journey Beyond Technology
+IdeoGuardian: A Journey Beyond Technology
 
 🌐 Prologue
 This is not just a project.
