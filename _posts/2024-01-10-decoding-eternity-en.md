@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "Decoding Eternity (English Version)"
-date: 2025-03-24
+date: 2024-01-10
 author: Identity Guardian
 categories: [fiction, novel]
 tags: [science-fiction, cyberpunk, ai]
 lang: en
+permalink: /fiction/decoding-eternity-en/
 ---
 
 # Decoding Eternity
 
-[Back to home](/)
+[Back to home]({{ site.baseurl }}/)
 
 ## Prologue: The Boundary of Light
 

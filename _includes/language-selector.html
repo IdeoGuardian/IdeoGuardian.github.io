@@ -1,0 +1,12 @@
+{% if page.lang %}
+<div class="language-selector">
+  {% assign translations = site.data.translations[page.translation_key] %}
+  {% for lang in translations %}
+    {% if lang[0] == page.lang %}
+      <strong>{{ lang[0] | upcase }}</strong>
+    {% else %}
+      <a href="{{ lang[1] | relative_url }}">{{ lang[0] | upcase }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
