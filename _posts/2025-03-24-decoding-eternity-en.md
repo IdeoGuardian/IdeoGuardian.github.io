@@ -1104,7 +1104,7 @@ On the first page of this new era, everything both ends and begins, as the poet 
 
 And this, perhaps, is the ultimate Guardian Protocol—that eternally renegotiated balance between human and self, human and others, human and world. As that profound realization states: "Each moment is a new beginning," and in these countless beginnings, we continuously rediscover ourselves, and rediscover the world.
 
-## License
+
 
 © 2025 Identity Guardian Project. All rights reserved.
 
