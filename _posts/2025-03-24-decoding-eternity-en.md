@@ -9,8 +9,6 @@ lang: en
 permalink: /decoding-eternity-en/
 ---
 
-# Decoding Eternity
-
 ## Prologue: The Boundary of Light
 
 The boundary between light and darkness is never clearly defined, like that indescribable moment when dawn and dusk intertwine. Echo Rivers stood at the city's highest point, gazing down at the digital information flows streaming like a galaxy of stars across Neo Taipei's night sky. Her thoughts, however, drifted to an ancient verse: "Moonlight shines through the pines, clear springs flow over stones." Two vastly different worlds, yet reflecting the same human heart.
