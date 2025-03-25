@@ -57,8 +57,6 @@ This work is protected under dual licensing:
 2. **Creative Commons License**  
    This work is also licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-For permissions and inquiries, please contact: Ideo_Guardian@proton.me
-
 ## 📢 Stay Tuned
 
 Something is emerging.
