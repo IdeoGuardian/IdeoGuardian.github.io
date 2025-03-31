@@ -3,44 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decoding Eternity | 解碼永恆</title>
+    <title>IdeoGuardian Project | Decoding Eternity</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             margin: 0;
+            padding: 0;
             background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
         }
         .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
             text-align: center;
         }
-        .language-btn {
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin: 30px 0 20px;
+        }
+        .nav-section {
+            margin: 40px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .button-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .btn {
             display: inline-block;
-            padding: 15px 30px;
-            margin: 10px;
-            font-size: 18px;
+            padding: 12px 25px;
             text-decoration: none;
             color: #333;
             background-color: #fff;
             border: 2px solid #333;
             border-radius: 5px;
             transition: all 0.3s ease;
+            font-weight: bold;
         }
-        .language-btn:hover {
+        .btn:hover {
             background-color: #333;
             color: #fff;
+        }
+        .language-btn {
+            padding: 15px 30px;
+            margin: 10px;
+            font-size: 18px;
+        }
+        .documentation-btn {
+            background-color: #f0f7ff;
+            border-color: #3a7bd5;
+            color: #3a7bd5;
+        }
+        .documentation-btn:hover {
+            background-color: #3a7bd5;
+            color: #fff;
+        }
+        .description {
+            max-width: 700px;
+            margin: 0 auto 30px;
+            text-align: left;
+        }
+        .footer {
+            margin-top: 60px;
+            font-size: 14px;
+            color: #666;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Decoding Eternity | 解碼永恆</h1>
-        <a href="/decoding-eternity-en" class="language-btn">English</a>
-        <a href="/decoding-eternity-zh" class="language-btn">中文</a>
-        <div style="margin-top: 50px; font-size: 14px; color: #666;">
+        <h1>IdeoGuardian Project</h1>
+        <div class="description">
+            <p>The IdeoGuardian project proposes a comprehensive framework for identifying, analyzing, and protecting against sophisticated narrative manipulation targeting cultural and collective identities. Drawing inspiration from cybersecurity approaches, this system functions as an "antivirus for narratives," detecting potentially harmful content while respecting the rich diversity of legitimate cultural expressions.</p>
+        </div>
+
+        <div class="nav-section">
+            <h2>Project Documentation</h2>
+            <div class="button-container">
+                <a href="https://github.com/IdeoGuardian/IdeoGuardian.github.io" class="btn documentation-btn">GitHub Repository</a>
+                <a href="/technical_framework.html" class="btn documentation-btn">Technical Framework</a>
+                <a href="/applications.html" class="btn documentation-btn">Applications</a>
+                <a href="/narrative_illustration.html" class="btn documentation-btn">Narrative Illustration</a>
+                <a href="/about.html" class="btn documentation-btn">About the Project</a>
+            </div>
+        </div>
+
+        <div class="nav-section">
+            <h2>Decoding Eternity | 解碼永恆</h2>
+            <p>A creative exploration of identity protection and narrative integrity through fiction</p>
+            <div class="button-container">
+                <a href="/decoding-eternity-en" class="btn language-btn">English Version</a>
+                <a href="/decoding-eternity-zh" class="btn language-btn">中文版</a>
+            </div>
+        </div>
+
+        <div class="footer">
             <p>© 2025 IdeoGuardian Project. All rights reserved.</p>
             <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" style="color: #333;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
         </div>
