@@ -1,3 +1,8 @@
+---
+layout: default
+title: IdeoGuardian Technical Framework
+---
+
 # IdeoGuardian Technical Framework
 
 ## I. System Architecture

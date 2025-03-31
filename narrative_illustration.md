@@ -1,3 +1,8 @@
+---
+layout: default
+title: Narrative Illustration - Decoding Eternity
+---
+
 # From Fiction to Framework: How "Decoding Eternity" Illustrates the IdeoGuardian Concept
 
 The novel "Decoding Eternity | 解碼永恆" serves as a creative exploration of the IdeoGuardian conceptual framework. Through narrative fiction, the story illuminates key concepts related to identity protection, narrative manipulation, and cognitive security in ways that might be difficult to convey through technical documentation alone.

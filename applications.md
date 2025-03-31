@@ -1,3 +1,8 @@
+---
+layout: default
+title: Applications of the IdeoGuardian Framework
+---
+
 # Applications of the IdeoGuardian Framework
 
 The IdeoGuardian conceptual framework has potential applications across multiple domains where narrative integrity and cultural identity protection are critical. This document outlines some of the most promising application areas.

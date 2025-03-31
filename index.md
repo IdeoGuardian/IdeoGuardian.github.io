@@ -1,6 +1,6 @@
 ---
 layout: home
-title: IdeoGuardian: A Journey Beyond Technology
+title: "IdeoGuardian: A Journey Beyond Technology"
 ---
 
 IdeoGuardian: A Journey Beyond Technology

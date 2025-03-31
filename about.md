@@ -1,3 +1,8 @@
+---
+layout: default
+title: About the IdeoGuardian Project
+---
+
 # About the IdeoGuardian Project
 
 ## Project Origins
