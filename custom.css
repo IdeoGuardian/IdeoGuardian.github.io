@@ -1,3 +1,21 @@
+/* Ensure proper handling of mixed language text */
+.chinese-title {
+    display: inline-block;
+    white-space: nowrap;
+    font-family: 'Noto Sans TC', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+}
+
+/* Fix for line breaks in titles with Chinese characters */
+h1, h2, h3, h4, h5, h6, p, li {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+}
+
+/* Proper spacing for CJK text */
+:lang(zh), :lang(ja), :lang(ko) {
+    line-height: 1.8;
+}
+
 /* Custom styles for IdeoGuardian Project */
 
 /* Page header styling */
