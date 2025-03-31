@@ -3,7 +3,10 @@ layout: default
 title: About the IdeoGuardian Project
 ---
 
-# About the IdeoGuardian Project
+<div class="page-header">
+    <h1>About the IdeoGuardian Project</h1>
+    <p class="lead">A conceptual framework for protecting cultural narratives in digital environments</p>
+</div>
 
 ## Project Origins
 
