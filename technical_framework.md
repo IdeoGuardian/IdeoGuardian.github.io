@@ -3,7 +3,10 @@ layout: default
 title: IdeoGuardian Technical Framework
 ---
 
-# IdeoGuardian Technical Framework
+<div class="page-header">
+    <h1>IdeoGuardian Technical Framework</h1>
+    <p class="lead">A comprehensive approach to protecting cultural narratives in digital environments</p>
+</div>
 
 ## I. System Architecture
 
